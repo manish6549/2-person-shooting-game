@@ -1,0 +1,33 @@
+body {
+  margin: 1px;
+  font-family: 'Readex Pro', sans-serif;
+  font-size: auto;
+}
+
+.heading {
+  border: 1px solid black;
+  text-align: center;
+  margin: 0.5rem auto;
+  padding: 0.5rem;
+  border-radius: 5px;
+  background-color: #247881;
+  box-shadow: 2px 2px;
+}
+
+.container {
+  border: 1px solid black;
+  margin: 0.5rem auto;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  background-color: #43919B;
+  border-radius: 5px;
+  box-shadow: 2px 2px;
+}
+
+button {
+  margin: 0.5rem;
+  box-shadow: 2px 2px;
+}
